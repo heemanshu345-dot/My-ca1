@@ -1,0 +1,79 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!--Photographs-->
+    <center><h1 style="background-color: red;">Photographs</h1></center><center>
+    <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjoPzxoEHqHK9mSaOJTlePl-TcznOzo3H9U75Cz4utY6qCZyd-AtfSVxzUcs0-MEaGnDMd-ta8h6Ne6u0dyfT5RmJDTX2uZo5N_-Nhog"height=300;>
+    </center>
+    <h1>William Shakespere</h1>
+    <u>William Shakespere is known as 'The Bard of Avon'</u>
+    <br>
+    <p><b>William Shakespere</b> is the most famous poet and actor. I think everyone read his poetry ,story and many more.He is often called England's national poet and the "Bard of Avon" or simply "the Bard". His extant works, including collaborations, consist of some 39 plays, 154 sonnets, three long narrative poems and a few other verses, some of uncertain authorship.Shakespeare produced most of his known works between 1589 and 1613. His early plays were primarily comedies and histories and are regarded as some of the best works produced in these genres.</p><br><p> He then wrote mainly tragedies until 1608, among them Hamlet, Othello, King Lear and Macbeth, all considered to be among the finest works in English. </p>
+<h2>Some poet</h2>
+<p>William Shakespeare's major poetry collections are the 154 Sonnets, and the narrative poems Venus and Adonis, The Rape of Lucrece, and A Lover's Complaint. Some other notable poems include "The Phoenix and Turtle". Shakespeare also wrote many famous plays, such as Hamlet, Romeo and Juliet, Macbeth, and King Lear. </p>
+<h3>for more info..</h3><a href>www.wikipedia.in</a>
+<hr>
+<h1 style="background-color: yellow;">Painting : Tiger</h1>
+<center><img src="https://m.media-amazon.com/images/I/91cV6bKw9rL._UF894,1000_QL80_.jpg"height=300;><br></center>
+<b>A tiger is known by its scientific name, Panthera tigris</b><br>
+<i>tiger is carnivorous</i>
+<p>Other names for a tiger include its scientific name, Panthera tigris, its various subspecies names like Siberian or Bengal tiger, and names in other languages, such as the Tamil word "Puli". The term "tiger" is also used as a synonym for other big cats like the leopard and jaguar, and for fierce qualities or characteristics. The tiger (Panthera tigris) is a large cat and a member of the genus Panthera native to Asia. It has a powerful, muscular body with a large head and paws, a long tail and orange fur with black, mostly vertical stripes. It is traditionally classified into nine recent subspecies, though some recognise only two subspecies, mainland Asian tigers and the island tigers of the Sunda Islands.</p>
+<h3>to visit:</h3><a href>www.wikipedia.in</a>
+<b>Paint price <del>$100</del> ,$80</b>
+<hr>
+<h1 style="background-color: aqua;">Mona lisa : Portrait</h1>
+<center><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Gioconda_%28copia_del_Museo_del_Prado_restaurada%29.jpg"height=300></center>
+<h3>Painted by</h3><u>The Mona Lisa, painted by Leonardo da Vinci</u>
+<p>The Mona Lisa[a] is a half-length portrait painting by the Italian artist Leonardo da Vinci. Considered an archetypal masterpiece of the Italian Renaissance,[4][5] it has been described as "the best known, the most visited, the most written about, the most sung about, [and] the most parodied work of art in the world."[6] The painting's novel qualities include the subject's enigmatic expression,[7] monumentality of the composition, the subtle modelling of forms, and the atmospheric illusionism.[8]
+
+The painting has been traditionally considered to depict the Italian noblewoman Lisa del Giocondo.[9] It is painted in oil on a white poplar panel.[10] Leonardo never gave the painting to the Giocondo family.[11] It was believed to have been painted between 1503 and 1506; however, Leonardo may have continued working on it as late as 1517. King Francis I of France acquired the Mona Lisa after Leonardo's death in 1519, and it is now the property of the French Republic. It has normally been on display at the Louvre in Paris since 1797.[12]
+
+The painting's global fame and popularity partly stem from its 1911 theft by Vincenzo Peruggia, who attributed his actions to Italian patriotism—a belief it should belong to Italy. </p>
+<h3>For more info</h3>
+<a href>www.wikipedia.in</a></body>
+<h3>Summary</h3>
+<ul>
+    <li>more info go for books from shakspere</li>
+    <li>Painting</li>
+    <li>wikipedia and also many site help to know Mona lisa</li>
+</ul>
+<h3> Gallery Rules</h3>
+<ol>
+    <li>
+        read Carefully
+        <li>
+            explore all things<li>
+                keep patience
+            </li>
+        </li>
+    </li>
+</ol>
+<table border="3" cellpadding="19" width="70%">
+    <tr>
+        <th>
+            Artwork
+            <th>
+                Known for
+                <th>
+                    Year
+                </th>
+            </th>
+        </th>
+    </tr>
+    <td>
+        William shakspere<td>
+            poet
+        </td><td>
+            1516-1616
+        </td>
+</Table>
+
+
+
+</body>
+</html>
